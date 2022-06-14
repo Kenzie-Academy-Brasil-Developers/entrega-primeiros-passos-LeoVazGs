@@ -47,5 +47,6 @@ if (parseInt(somaTotal) % 2 == 0){
    voce = somaTotal/2
    amigo = somaTotal/2
 }
-
+console.log(`Eu pago ${eu} reais e meu amigo paga ${amigo} reais`)
 alert (`Eu pago ${eu} reais e meu amigo paga ${amigo} reais`)
+
